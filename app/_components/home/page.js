@@ -2,7 +2,7 @@ export default function HomePage() {
     return (
         <div id="about">
             <h1 className="text-4xl font-bold text-center my-8">About Us</h1>
-            <div className="mx-auto justify-center max-w-md text-gray-500 flex flex-col gap-4 italic">
+            <div className="mx-auto justify-center max-w-md sm:mx-8 text-gray-500 flex flex-col gap-4 italic">
                 <p>
                     Welcome to Frigs Pica Dulces, your ultimate destination for a variety of mouthwatering candies uniquely coated in our signature chilito powder. We specialize in bringing you an authentic Mexican candy experience, where each bite is an exciting blend of sweet and spicy flavors.
                 </p>
