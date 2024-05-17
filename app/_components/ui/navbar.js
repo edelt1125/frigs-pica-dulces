@@ -8,7 +8,7 @@ export default function NavBar() {
         <nav className="flex items-center justify-between bg-blue-400 h-12">
             <div className="flex mx-8 text-white font-bold items-center gap-x-4 sm:mx-2">
                 <Image src="/FPD.svg" height={40} width={40} />
-                <span className="sm:text-xs">Frigs Pica Dulces</span>
+                <span className="sm:text-sm">Frigs Pica Dulces</span>
             </div>
             <div className="flex gap-x-4 mx-10 text-white font-bold sm:text-xs sm:mx-4">
                 <div className="hover:text-gray-200 hover:cursor-pointer">
